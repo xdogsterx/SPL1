@@ -4,3 +4,5 @@
 + git add  <filename>
 + git commit -m "..."
 + git push
+
+und wiederholen
