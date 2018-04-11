@@ -7,9 +7,10 @@
 * Installation VM
 * Einrichtung
 
-# Installationen
-* python
-* vs code
-* vm
-* 7Zip
+# Erledigt am 11.04.2018
++ python Installation
++ vs code Installation
++ vm Installation
++ 7Zip Installation
 
+Raspberry PI erhalten
