@@ -6,3 +6,10 @@
 * Grundlagen GIT
 * Installation VM
 * Einrichtung
+
+# Installationen
+* python
+* vs code
+* vm
+* 7Zip
+
