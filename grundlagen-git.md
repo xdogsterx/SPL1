@@ -4,3 +4,6 @@
 + git add  <filename>
 + git commit -m "..."
 + git push
+
+und wiederholen
+und arbeiten mit dem Branch "Test"
