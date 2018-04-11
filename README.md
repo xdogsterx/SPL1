@@ -2,5 +2,7 @@
 ## Julian W.
 ### 11.04.2018, SPL
 
-Grundlagen GIT
-Installation VM
+# Inhalte
+* Grundlagen GIT
+* Installation VM
+* Einrichtung
